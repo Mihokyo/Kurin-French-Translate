@@ -1,37 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DRNTF_ApparelT1.label>
-    Vêtement simple de Kurin
-  </DRNTF_ApparelT1.label>
-  <DRNTF_ApparelT1.description>
-    Permet d'apprendre à produire des vêtements simple adapté pour les kurins.
-    \nSous vêtement, T-shirt, chemise, foulard
-  </DRNTF_ApparelT1.description>
+  <DRNTF_ApparelT1.label>Vêtement simple de Kurin</DRNTF_ApparelT1.label>
+  <DRNTF_ApparelT1.description>Permet d'apprendre à produire des vêtements simple adapté pour les kurins.\nSous vêtement, T-shirt, chemise, foulard</DRNTF_ApparelT1.description>
 
-  <DRNTF_ApparelT2.label>
-    Vetement normal Kurin
-  </DRNTF_ApparelT2.label>
-  <DRNTF_ApparelT2.description>
-    Permet d'apprendre à produire des vêtements normaux adapté pour les kurins.\n
-    Tricot coupé Kurin A/B, Sweat à capuche Kurin, Gilet à bretelles, Chapeau d'été, Bonnet.
-  </DRNTF_ApparelT2.description>
+  <DRNTF_ApparelT2.label>Vetement normal Kurin</DRNTF_ApparelT2.label>
+  <DRNTF_ApparelT2.description>Permet d'apprendre à produire des vêtements normaux adapté pour les kurins.\nTricot coupé Kurin A/B, Sweat à capuche Kurin, Gilet à bretelles, Chapeau d'été, Bonnet.</DRNTF_ApparelT2.description>
 
-  <DRNTF_ApparelT3.label>
-    Vêtement avancé Kurin
-  </DRNTF_ApparelT3.label>
-  <DRNTF_ApparelT3.description>
-    Permet d'apprendre à produire des vêtements avancé adapté pour les kurins.\n
-    \n\Available : Robe élégante, Robe de soirée, Manteau, Parka, Lunette, Jupe..
-  </DRNTF_ApparelT3.description>
+  <DRNTF_ApparelT3.label>Vêtement avancé Kurin</DRNTF_ApparelT3.label>
+  <DRNTF_ApparelT3.description>Permet d'apprendre à produire des vêtements avancé adapté pour les kurins.\nRobe élégante, Robe de soirée, Manteau, Parka, Lunette, Jupe.</DRNTF_ApparelT3.description>
 
-  <DRNTF_ApparelT4.label>
-    Vêtement militaire Kurin
-  </DRNTF_ApparelT4.label>
-  <DRNTF_ApparelT4.description>
-    Permet d'apprendre à produire des vêtements simple adapté pour les kurins.\n
-    Casque militaire Helmet A/B, Uniforme militaire
-  </DRNTF_ApparelT4.description>
+  <DRNTF_ApparelT4.label>Vêtement militaire Kurin</DRNTF_ApparelT4.label>
+  <DRNTF_ApparelT4.description>Permet d'apprendre à produire des vêtements simple adapté pour les kurins.\nCasque militaire Helmet A/B, Uniforme militaire</DRNTF_ApparelT4.description>
 
 
 </LanguageData>
