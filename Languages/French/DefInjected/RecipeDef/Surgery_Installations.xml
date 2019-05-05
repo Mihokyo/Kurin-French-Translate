@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DRNTF_InstallFakeTail.label>install fake kurin tail</DRNTF_InstallFakeTail.label>
-  <DRNTF_InstallFakeTail.description>Install a fake kurin tail.</DRNTF_InstallFakeTail.description>
-  <DRNTF_InstallFakeTail.jobString>Installing fake kurin tail.</DRNTF_InstallFakeTail.jobString>
+  <DRNTF_InstallFakeTail.label>installer prothèse de queue kurin</DRNTF_InstallFakeTail.label>
+  <DRNTF_InstallFakeTail.description>Installer une prothèse de queue kurin.</DRNTF_InstallFakeTail.description>
+  <DRNTF_InstallFakeTail.jobString>Installe une prothèse de queue kurin.</DRNTF_InstallFakeTail.jobString>
 
-  <DRNTF_InstallBionicEar.label>install bionic kurin ear</DRNTF_InstallBionicEar.label>
-  <DRNTF_InstallBionicEar.description>Install a bionic kurin ear.</DRNTF_InstallBionicEar.description>
-  <DRNTF_InstallBionicEar.jobString>Installing bionic kurin ear.</DRNTF_InstallBionicEar.jobString>
+  <DRNTF_InstallBionicEar.label>installer une oreille de kurin bionic</DRNTF_InstallBionicEar.label>
+  <DRNTF_InstallBionicEar.description>Installer une oreille bionic de kurin</DRNTF_InstallBionicEar.description>
+  <DRNTF_InstallBionicEar.jobString>Installe une oreille bionic de kurin.</DRNTF_InstallBionicEar.jobString>
 
-  <DRNTF_InstallBionicTail.label>install bionic kurin tail</DRNTF_InstallBionicTail.label>
-  <DRNTF_InstallBionicTail.description>Install a bionic kurin tail.</DRNTF_InstallBionicTail.description>
-  <DRNTF_InstallBionicTail.jobString>Installing bionic kurin tail.</DRNTF_InstallBionicTail.jobString>
+  <DRNTF_InstallBionicTail.label>installer queue bionic kurin</DRNTF_InstallBionicTail.label>
+  <DRNTF_InstallBionicTail.description>Installer queue bionic kurin.</DRNTF_InstallBionicTail.description>
+  <DRNTF_InstallBionicTail.jobString>Installe une queue bionic de kurin.</DRNTF_InstallBionicTail.jobString>
 
 
 </LanguageData>
