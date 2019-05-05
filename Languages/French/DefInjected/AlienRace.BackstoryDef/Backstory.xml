@@ -10,7 +10,7 @@
 
   <!-- 어린 시녀 -->
 
-  <DRNTF_BackstoryChild_02.title>Jeune Kurin femme de chambre</DRNTF_BackstoryChild_02.title>
+  <DRNTF_BackstoryChild_02.title>Kurin Jeune femme de chambre</DRNTF_BackstoryChild_02.title>
   <DRNTF_BackstoryChild_02.titleShort>Femme de chambre</DRNTF_BackstoryChild_02.titleShort>
   <DRNTF_BackstoryChild_02.baseDescription>Les parents de [PAWN_nameDef] on perdu toute leurs fortune et on croulé sous les dettes. La [PAWN_pronoun] s'est alors occupée du manoir familial.</DRNTF_BackstoryChild_02.baseDescription>
 
@@ -24,21 +24,21 @@
 
   <!-- 따돌려진 아이 -->
 
-  <DRNTF_BackstoryChild_04.title>L'enfants de Killin</DRNTF_BackstoryChild_04.title>
+  <DRNTF_BackstoryChild_04.title>Kurin L'enfants de Killin</DRNTF_BackstoryChild_04.title>
   <DRNTF_BackstoryChild_04.titleShort>Enfant</DRNTF_BackstoryChild_04.titleShort>
   <DRNTF_BackstoryChild_04.baseDescription>[PAWN_nameDef] était une enfant aux yeux bleus inhabituels. Dans l'épopée des kurins, cela signifiait un mauvais présage, [PAWN_nameDef] a donc grandi en tant qu'enfant solitaire, évité par tous, des enfants aux adultes..</DRNTF_BackstoryChild_04.baseDescription>
 
 
   <!-- 비행청소년 -->
 
-  <DRNTF_BackstoryChild_05.title>Jeune Kurin</DRNTF_BackstoryChild_05.title>
+  <DRNTF_BackstoryChild_05.title>Kurin Jeune Kurin</DRNTF_BackstoryChild_05.title>
   <DRNTF_BackstoryChild_05.titleShort>Délinquant</DRNTF_BackstoryChild_05.titleShort>
   <DRNTF_BackstoryChild_05.baseDescription>[PAWN_nameDef] était une terreur pour certain enfant et un sacré mal de tête pour les enseignants. Les comportements les plus fréquent des [PAWN_pronoun] était de ne pas respecter les horraires des corvées, ne pas écouter les enseignants et de mettre de la terre dans les chaussures des gens laissées au pieds des portes. Tout le monde était terrifié. </DRNTF_BackstoryChild_05.baseDescription>
 
 
   <!-- 빈민가 고아 -->
 
-  <DRNTF_BackstoryChild_06.title>Orphelin Kurin du guetto </DRNTF_BackstoryChild_06.title>
+  <DRNTF_BackstoryChild_06.title>Kurin Orphelin du guetto </DRNTF_BackstoryChild_06.title>
   <DRNTF_BackstoryChild_06.titleShort>Guetto Orphelin</DRNTF_BackstoryChild_06.titleShort>
   <DRNTF_BackstoryChild_06.baseDescription>[PAWN_nameDef] a passé son enfance à chercher dans les poubelles les moindres restes de rations possible afin de pouvoir survivre. Il avait pourtant un centre d'aide pour les enfants, mais les conditions dans le quel il se trouvait était semblable à un batiment de bidonville et disposé que de peu d'aide humanitaire.</DRNTF_BackstoryChild_06.baseDescription>
 
