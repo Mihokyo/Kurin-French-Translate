@@ -39,8 +39,8 @@
 
   <!-- 드레스 -->
 
-  <DRNTF_Dress.label>Jupe Kurin</DRNTF_Dress.label>
-  <DRNTF_Dress.description>Une belle jupe charmante</DRNTF_Dress.description>
+  <DRNTF_Dress.label>Robe Kurin</DRNTF_Dress.label>
+  <DRNTF_Dress.description>Une belle robe charmante</DRNTF_Dress.description>
 
 
   <!-- 점프수트 -->
@@ -63,14 +63,14 @@
 
   <!-- 패딩 -->
 
-  <DRNTF_Parka.label>Parka kurin</DRNTF_Parka.label>
+  <DRNTF_Parka.label>Parka Kurin</DRNTF_Parka.label>
   <DRNTF_Parka.description>Une parka qui protège grandement contre le froid.</DRNTF_Parka.description>
 
 
   <!-- 목도리 -->
 
-  <DRNTF_Scarf.label>Foulard Kurin</DRNTF_Scarf.label>
-  <DRNTF_Scarf.description>Un foulard à allure chaleureuse.</DRNTF_Scarf.description>
+  <DRNTF_Scarf.label>Echarpe Kurin</DRNTF_Scarf.label>
+  <DRNTF_Scarf.description>Une echarpe à allure chaleureuse.</DRNTF_Scarf.description>
 
 
   <!-- 여름모자 -->
