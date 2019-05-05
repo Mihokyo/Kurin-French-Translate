@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DRNTF_NooseTrap.label>Noose Trap</DRNTF_NooseTrap.label>
-  <DRNTF_NooseTrap.description>It is Kurin's special noose trap which can be made quickly with less material. When you activate the trap, the lasso ties the enemy. But it does not work for too big enemies and mechanoid.</DRNTF_NooseTrap.description>
-  <DRNTF_NooseTrap_Blueprint.label>Noose Trap (blueprint)</DRNTF_NooseTrap_Blueprint.label>
-  <DRNTF_NooseTrap_Blueprint_Install.label>Noose Trap (blueprint)</DRNTF_NooseTrap_Blueprint_Install.label>
-  <DRNTF_NooseTrap_Frame.label>Noose Trap (building)</DRNTF_NooseTrap_Frame.label>
-  <DRNTF_NooseTrap_Frame.description>It is Kurin's special noose trap which can be made quickly with less material. When you activate the trap, the lasso ties the enemy. But it does not work for too big enemies and mechanoid.</DRNTF_NooseTrap_Frame.description>
+  <DRNTF_NooseTrap.label>Piége à noeud coulant</DRNTF_NooseTrap.label>
+  <DRNTF_NooseTrap.description>C'est un piége Kurin qui est construit rapidement et coute peu de materiel. Lorsque le piège est activé, le lasso lie l'ennemi. Mais il ne fonctionne pas pour de trop gros ennemis et méchanoïdes.</DRNTF_NooseTrap.description>
+  <DRNTF_NooseTrap_Blueprint.label>Piége à noeud coulant (blueprint)</DRNTF_NooseTrap_Blueprint.label>
+  <DRNTF_NooseTrap_Blueprint_Install.label>Piége à noeud coulant (blueprint)</DRNTF_NooseTrap_Blueprint_Install.label>
+  <DRNTF_NooseTrap_Frame.label>Piége à noeud coulant (building)</DRNTF_NooseTrap_Frame.label>
+  <DRNTF_NooseTrap_Frame.description>C'est un piége Kurin qui est construit rapidement et coute peu de materiel. Lorsque le piège est activé, le lasso lie l'ennemi. Mais il ne fonctionne pas pour de trop gros ennemis et méchanoïdes.</DRNTF_NooseTrap_Frame.description>
 
 
 </LanguageData>
