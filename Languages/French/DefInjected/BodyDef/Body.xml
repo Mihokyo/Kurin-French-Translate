@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DRNTF_Body.label>Kurin</DRNTF_Body.label>
+  <DRNTF_Body.corePart.parts.4.customLabel>queue</DRNTF_Body.corePart.parts.4.customLabel>
+  <DRNTF_Body.corePart.parts.7.customLabel>poumon gauche</DRNTF_Body.corePart.parts.7.customLabel>
+  <DRNTF_Body.corePart.parts.8.customLabel>poumon droit</DRNTF_Body.corePart.parts.8.customLabel>
+  <DRNTF_Body.corePart.parts.9.customLabel>rein gauche</DRNTF_Body.corePart.parts.9.customLabel>
+  <DRNTF_Body.corePart.parts.10.customLabel>rein droit</DRNTF_Body.corePart.parts.10.customLabel>
+  <DRNTF_Body.corePart.parts.12.parts.0.parts.1.customLabel>oeil gauche</DRNTF_Body.corePart.parts.12.parts.0.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.12.parts.0.parts.2.customLabel>oeil droit</DRNTF_Body.corePart.parts.12.parts.0.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.12.parts.0.parts.3.customLabel>oreille gauche ear</DRNTF_Body.corePart.parts.12.parts.0.parts.3.customLabel>
+  <DRNTF_Body.corePart.parts.12.parts.0.parts.4.customLabel>oreille droit</DRNTF_Body.corePart.parts.12.parts.0.parts.4.customLabel>
+  <DRNTF_Body.corePart.parts.13.customLabel>épaule gauche</DRNTF_Body.corePart.parts.13.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.0.customLabel>clavicule gauche</DRNTF_Body.corePart.parts.13.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.customLabel>bras gauche</DRNTF_Body.corePart.parts.13.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.0.customLabel>humérus gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.1.customLabel>gauche radius</DRNTF_Body.corePart.parts.13.parts.1.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.2.customLabel>main gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>petit doigt gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>annulaire gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>majeur gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>index gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>pouce gauche</DRNTF_Body.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <DRNTF_Body.corePart.parts.14.customLabel>épaule droite</DRNTF_Body.corePart.parts.14.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.0.customLabel>clavicule droite</DRNTF_Body.corePart.parts.14.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.customLabel>bras droit</DRNTF_Body.corePart.parts.14.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.0.customLabel>humérus droit</DRNTF_Body.corePart.parts.14.parts.1.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.1.customLabel>radius droit</DRNTF_Body.corePart.parts.14.parts.1.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.2.customLabel>main droite</DRNTF_Body.corePart.parts.14.parts.1.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>petit doigt droit</DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>annulaire droit</DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>majeur droit</DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>index droit</DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>pouce droit</DRNTF_Body.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <DRNTF_Body.corePart.parts.16.customLabel>jambe gauche</DRNTF_Body.corePart.parts.16.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.0.customLabel>fémur gauche</DRNTF_Body.corePart.parts.16.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.1.customLabel>tibia gauche</DRNTF_Body.corePart.parts.16.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.2.customLabel>pied gauche</DRNTF_Body.corePart.parts.16.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.2.parts.0.customLabel>petit orteil gauche</DRNTF_Body.corePart.parts.16.parts.2.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.2.parts.1.customLabel>quatrième orteil gauche</DRNTF_Body.corePart.parts.16.parts.2.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.2.parts.2.customLabel>orteil moyen gauche</DRNTF_Body.corePart.parts.16.parts.2.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.2.parts.3.customLabel>deuxième orteil gauche</DRNTF_Body.corePart.parts.16.parts.2.parts.3.customLabel>
+  <DRNTF_Body.corePart.parts.16.parts.2.parts.4.customLabel>gros orteil gauche</DRNTF_Body.corePart.parts.16.parts.2.parts.4.customLabel>
+  <DRNTF_Body.corePart.parts.17.customLabel>jambe droit</DRNTF_Body.corePart.parts.17.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.0.customLabel>fémur droit</DRNTF_Body.corePart.parts.17.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.1.customLabel>tibia droit</DRNTF_Body.corePart.parts.17.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.2.customLabel>pied droit</DRNTF_Body.corePart.parts.17.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.2.parts.0.customLabel>petit orteil droit</DRNTF_Body.corePart.parts.17.parts.2.parts.0.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.2.parts.1.customLabel>quatrième orteil droit</DRNTF_Body.corePart.parts.17.parts.2.parts.1.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.2.parts.2.customLabel>orteil moyen droit</DRNTF_Body.corePart.parts.17.parts.2.parts.2.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.2.parts.3.customLabel>deuxième orteil droit</DRNTF_Body.corePart.parts.17.parts.2.parts.3.customLabel>
+  <DRNTF_Body.corePart.parts.17.parts.2.parts.4.customLabel>gros orteil droit</DRNTF_Body.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

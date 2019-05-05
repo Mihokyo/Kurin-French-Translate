@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DRNTF_ApparelT1.label>Kurin's simple apparel</DRNTF_ApparelT1.label>
+  <DRNTF_ApparelT1.description>Study how to produce simple apparel.\n\Available : Underwear, T-shirt, shirt, Scarf</DRNTF_ApparelT1.description>
+
+  <DRNTF_ApparelT2.label>Kurin's Normal apparel</DRNTF_ApparelT2.label>
+  <DRNTF_ApparelT2.description>Study how to produce Normal apparel.\n\Available : off shoulder A/B, Hoodie, cardigan, summer hat, beanie hat</DRNTF_ApparelT2.description>
+
+  <DRNTF_ApparelT3.label>Kurin's delicate apparel</DRNTF_ApparelT3.label>
+  <DRNTF_ApparelT3.description>Study how to produce delicate apparel.\n\Available : Dress, Jumpsuit, Duster, Parka, Glasses, gentle dress, stylish dress, mild coat</DRNTF_ApparelT3.description>
+
+  <DRNTF_ApparelT4.label>Kurin's military apparel</DRNTF_ApparelT4.label>
+  <DRNTF_ApparelT4.description>Study how to produce military apparel.\n\Available : military helmet A/B, military uniform</DRNTF_ApparelT4.description>
+
+
+</LanguageData>

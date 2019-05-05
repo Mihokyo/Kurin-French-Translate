@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DRNTF_Race.label>Kurin</DRNTF_Race.label>
+  <DRNTF_Race.description>Un humain du génie génétique. Ils sont connus pour être bons cuisiniers, sociables et mignons.</DRNTF_Race.description>
+  <DRNTF_Race.tools.0.label>Poing gauche</DRNTF_Race.tools.0.label>
+  <DRNTF_Race.tools.1.label>Poing droite</DRNTF_Race.tools.1.label>
+  <DRNTF_Race.tools.2.label>Dents</DRNTF_Race.tools.2.label>
+  <DRNTF_Race.tools.3.label>Tête</DRNTF_Race.tools.3.label>
+
+
+</LanguageData>

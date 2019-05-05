@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DRNTF_Player.label>Colonie Kurin</DRNTF_Player.label>
+  <DRNTF_Player.description>Une colonie de Kurin.</DRNTF_Player.description>
+  <DRNTF_Player.pawnsPlural>kurins</DRNTF_Player.pawnsPlural>
+
+  <DRNTF_KurinFaction.label>République des Kurins</DRNTF_KurinFaction.label>
+  <DRNTF_KurinFaction.description>Une nation de renards génétiquement modifiés</DRNTF_KurinFaction.description>
+  <DRNTF_KurinFaction.pawnsPlural>kurins</DRNTF_KurinFaction.pawnsPlural>
+  <DRNTF_KurinFaction.leaderTitle>Présidente renarde</DRNTF_KurinFaction.leaderTitle>
+
+
+</LanguageData>

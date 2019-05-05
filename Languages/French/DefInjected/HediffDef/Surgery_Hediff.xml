@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DRNTF_FakeTail.label>prothèse de queue de kurin</DRNTF_FakeTail.label>
+  <DRNTF_FakeTail.labelNoun>une prothèse de queue de kurin</DRNTF_FakeTail.labelNoun>
+
+  <DRNTF_BionicTail.label>queue de kurin bionic</DRNTF_BionicTail.label>
+  <DRNTF_BionicTail.labelNoun>une queue de kurin bionic</DRNTF_BionicTail.labelNoun>
+
+  <DRNTF_BionicEar.label>oreille de kurin bionic</DRNTF_BionicEar.label>
+  <DRNTF_BionicEar.labelNoun>une oreille de kurin bionic</DRNTF_BionicEar.labelNoun>
+
+
+</LanguageData>
