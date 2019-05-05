@@ -3,128 +3,126 @@
 
   <!-- 속옷 -->
 
-  <DRNTF_Underwear.label>Kurin Underwear</DRNTF_Underwear.label>
-  <DRNTF_Underwear.description>It is plain underwear.</DRNTF_Underwear.description>
-
+  <DRNTF_Underwear.label>Sous-vêtement Kurin</DRNTF_Underwear.label>
+  <DRNTF_Underwear.description>Ce sont de simples sous-vêtement.</DRNTF_Underwear.description>
 
   <!-- 티셔츠 -->
 
   <DRNTF_Tshirt.label>Kurin T-shirt</DRNTF_Tshirt.label>
-  <DRNTF_Tshirt.description>It is a good summer T-shirt.</DRNTF_Tshirt.description>
-
-
+  <DRNTF_Tshirt.description>C'est un bon t-shirt d'été.</DRNTF_Tshirt.description>
+  
   <!-- 셔츠 -->
 
-  <DRNTF_Shirt.label>Kurin Shirt</DRNTF_Shirt.label>
-  <DRNTF_Shirt.description>It is a collared shirt with buttons.</DRNTF_Shirt.description>
+  <DRNTF_Shirt.label>Chemise Kurin</DRNTF_Shirt.label>
+  <DRNTF_Shirt.description>C'est une chemise à col à boutons.</DRNTF_Shirt.description>
 
 
   <!-- 오프숄더A -->
 
-  <DRNTF_OffShoulderA.label>Kurin Off Shoulder A</DRNTF_OffShoulderA.label>
-  <DRNTF_OffShoulderA.description>Cute off-cut Knit.</DRNTF_OffShoulderA.description>
+  <DRNTF_OffShoulderA.label>Tricot coupé Kurin A</DRNTF_OffShoulderA.label>
+  <DRNTF_OffShoulderA.description>Joli tricot coupé.</DRNTF_OffShoulderA.description>
 
 
   <!-- 오프숄더B -->
 
-  <DRNTF_OffShoulderB.label>Kurin off Shoulder B</DRNTF_OffShoulderB.label>
-  <DRNTF_OffShoulderB.description>It is a cute off-shoulder knit.</DRNTF_OffShoulderB.description>
+  <DRNTF_OffShoulderB.label>Tricot coupé Kurin B</DRNTF_OffShoulderB.label>
+  <DRNTF_OffShoulderB.description>Joli tricot coupé.</DRNTF_OffShoulderB.description>
 
 
   <!-- 후드 -->
 
-  <DRNTF_Hoodie.label>Kurin Hoodie</DRNTF_Hoodie.label>
-  <DRNTF_Hoodie.description>It's an easy-to-wear hoodie.</DRNTF_Hoodie.description>
+  <DRNTF_Hoodie.label>Sweat à capuche Kurin</DRNTF_Hoodie.label>
+  <DRNTF_Hoodie.description>Sweat facile à porter.</DRNTF_Hoodie.description>
 
 
   <!-- 드레스 -->
 
-  <DRNTF_Dress.label>Kurin Dress</DRNTF_Dress.label>
-  <DRNTF_Dress.description>A rich skirt is a charming dress.</DRNTF_Dress.description>
+  <DRNTF_Dress.label>Jupe Kurin</DRNTF_Dress.label>
+  <DRNTF_Dress.description>Une belle jupe charmante</DRNTF_Dress.description>
 
 
   <!-- 점프수트 -->
 
-  <DRNTF_Jumpsuit.label>Kurin Jumpsuit</DRNTF_Jumpsuit.label>
-  <DRNTF_Jumpsuit.description>It is the uniform of the engineer.</DRNTF_Jumpsuit.description>
+  <DRNTF_Jumpsuit.label>Combinaison Kurin/DRNTF_Jumpsuit.label>
+  <DRNTF_Jumpsuit.description>C'est l'uniforme des ingénieurs kurin.</DRNTF_Jumpsuit.description>
 
 
   <!-- 가디건 -->
 
-  <DRNTF_Cardigan.label>Kurin Cardigan</DRNTF_Cardigan.label>
-  <DRNTF_Cardigan.description>It is fluffy and warm cardigan.</DRNTF_Cardigan.description>
+  <DRNTF_Cardigan.label>Gilet à bretelles Kurin</DRNTF_Cardigan.label>
+  <DRNTF_Cardigan.description>Un gilet à bretelles doux et chaud.</DRNTF_Cardigan.description>
 
 
   <!-- 바람막이 -->
 
-  <DRNTF_Duster.label>Kurin Duster</DRNTF_Duster.label>
-  <DRNTF_Duster.description>It is a coat that can protect against considerable heat and a certain degree of cold.</DRNTF_Duster.description>
+  <DRNTF_Duster.label>Manteau Kurin</DRNTF_Duster.label>
+  <DRNTF_Duster.description>C'est un manteau qui protège contre le froid et le chaud</DRNTF_Duster.description>
 
 
   <!-- 패딩 -->
 
-  <DRNTF_Parka.label>kurin Parka</DRNTF_Parka.label>
-  <DRNTF_Parka.description>It is a coat that can protect against the cold.</DRNTF_Parka.description>
+  <DRNTF_Parka.label>Parka kurin</DRNTF_Parka.label>
+  <DRNTF_Parka.description>Une parka qui protège grandement contre le froid.</DRNTF_Parka.description>
 
 
   <!-- 목도리 -->
 
-  <DRNTF_Scarf.label>Kurin Scarf</DRNTF_Scarf.label>
-  <DRNTF_Scarf.description>It is a warm-looking shawl.</DRNTF_Scarf.description>
+  <DRNTF_Scarf.label>Foulard Kurin</DRNTF_Scarf.label>
+  <DRNTF_Scarf.description>Un foulard à allure chaleureuse.</DRNTF_Scarf.description>
 
 
   <!-- 여름모자 -->
 
-  <DRNTF_SummerHat.label>Kurin Summer Hat</DRNTF_SummerHat.label>
-  <DRNTF_SummerHat.description>A large brimmed hat. It effectively prevents sunlight.</DRNTF_SummerHat.description>
+  <DRNTF_SummerHat.label>Chapeau d'été Kurin</DRNTF_SummerHat.label>
+  <DRNTF_SummerHat.description>Un grand chapeau à bordures. Il protège efficacement de la lumière du soleil.</DRNTF_SummerHat.description>
 
 
   <!-- 털모자 -->
 
-  <DRNTF_BeanieHat.label>Kurin Beanie Hat</DRNTF_BeanieHat.label>
-  <DRNTF_BeanieHat.description>A hat that protects against the cold.</DRNTF_BeanieHat.description>
+  <DRNTF_BeanieHat.label>Bonnet Kurin</DRNTF_BeanieHat.label>
+  <DRNTF_BeanieHat.description>Un bonnet qui protège contre le froid.</DRNTF_BeanieHat.description>
 
 
   <!-- 안경 -->
 
-  <DRNTF_Glasses.label>Kurin Glasses</DRNTF_Glasses.label>
-  <DRNTF_Glasses.description>Plain Glasses.</DRNTF_Glasses.description>
+  <DRNTF_Glasses.label>Lunette Kurin</DRNTF_Glasses.label>
+  <DRNTF_Glasses.description>Des simples lunettes.</DRNTF_Glasses.description>
 
 
   <!-- 한복A -->
 
-  <DRNTF_GentleDress.label>Kurin Gentle Dress</DRNTF_GentleDress.label>
-  <DRNTF_GentleDress.description>Impressive skirt and shirt.</DRNTF_GentleDress.description>
+  <DRNTF_GentleDress.label>Robe de soirée Kurin</DRNTF_GentleDress.label>
+  <DRNTF_GentleDress.description>Une impressionnante robes de soirée qui sert de chemise et jupe.</DRNTF_GentleDress.description>
 
 
   <!-- 한복B -->
 
-  <DRNTF_StylishDress.label>Kurin Stylish Dress</DRNTF_StylishDress.label>
-  <DRNTF_StylishDress.description>Stylish skirts and shirts.</DRNTF_StylishDress.description>
+  <DRNTF_StylishDress.label>Robe élégante Kurin</DRNTF_StylishDress.label>
+  <DRNTF_StylishDress.description>Une élégante robe.</DRNTF_StylishDress.description>
 
 
   <!-- 한복외투 -->
 
-  <DRNTF_MildCoat.label>Kurin Mild Coat</DRNTF_MildCoat.label>
-  <DRNTF_MildCoat.description>It is a gentle coat.</DRNTF_MildCoat.description>
+  <DRNTF_MildCoat.label>Manteau léger Kurin</DRNTF_MildCoat.label>
+  <DRNTF_MildCoat.description>Un manteau doux.</DRNTF_MildCoat.description>
 
 
   <!-- 전투모A -->
 
-  <DRNTF_MilitaryHelmetA.label>Kurin Military Helmet ☆</DRNTF_MilitaryHelmetA.label>
-  <DRNTF_MilitaryHelmetA.description>Plastil reinforced battle.</DRNTF_MilitaryHelmetA.description>
+  <DRNTF_MilitaryHelmetA.label>Casque militaire Kurin ☆</DRNTF_MilitaryHelmetA.label>
+  <DRNTF_MilitaryHelmetA.description>Casque en plastacier pour les rudes batailles. Type A</DRNTF_MilitaryHelmetA.description>
 
 
   <!-- 전투모B -->
 
-  <DRNTF_MilitaryHelmetB.label>Kurin Military Helmet ★</DRNTF_MilitaryHelmetB.label>
-  <DRNTF_MilitaryHelmetB.description>Plastil reinforced battle.</DRNTF_MilitaryHelmetB.description>
+  <DRNTF_MilitaryHelmetB.label>Casque militaire Helmet ★</DRNTF_MilitaryHelmetB.label>
+  <DRNTF_MilitaryHelmetB.description>Casque en plastacier pour les rudes batailles. Type B</DRNTF_MilitaryHelmetB.description>
 
 
   <!-- 전투복 -->
 
-  <DRNTF_MilitaryUniform.label>Kurin Military Uniform</DRNTF_MilitaryUniform.label>
-  <DRNTF_MilitaryUniform.description>It is an all-in-one uniform equipped with a plastic bulletproof vest.</DRNTF_MilitaryUniform.description>
+  <DRNTF_MilitaryUniform.label>Uniforme militaire Kurin</DRNTF_MilitaryUniform.label>
+  <DRNTF_MilitaryUniform.description>C'est un uniforme tout-en-un équiper d'un gilet pare-balles en plastacier.</DRNTF_MilitaryUniform.description>
 
 
 </LanguageData>
