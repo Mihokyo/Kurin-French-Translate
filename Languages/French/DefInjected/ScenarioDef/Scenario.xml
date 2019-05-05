@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DRNTF_Scenario.label>Kurin pioneer</DRNTF_Scenario.label>
-  <DRNTF_Scenario.description>Translating...</DRNTF_Scenario.description>
-  <DRNTF_Scenario.scenario.name>Kurin pioneer</DRNTF_Scenario.scenario.name>
-  <DRNTF_Scenario.scenario.summary>A small group Kurin head out in the hopes building a new settlement.</DRNTF_Scenario.scenario.summary>
+  <DRNTF_Scenario.label>Pionnière kurin</DRNTF_Scenario.label>
+  <DRNTF_Scenario.description>
+    Les Kurins sont une espèce née d'une transformation biologique fait par un scientifiste. Concus à l'origine à des fins de recherche, certain scientifique se sont opposé à cette experience en piratant des méchanoides et les envoyants détruire le laboratoire. Mettre les kurins en capsules d'hypersommeil et les envoyers sur des planettes lointaines ..\n\n
+    Sur la nouvelle planète, les Kurins sont protégés par une intelligence artificielle et leurs a permit de se développer durant des siécles. Par la suite ils ont été en mesure d'interagir avec d'autres forces humaines pour être reconnu comme faction. Les humains, en voyant le travail de haute qualité des Kurins de part leurs capacité innée on finit par attiré les grandes puissances humaines qui ont tenté de faire la guerre au kurin pour les capturers. Neanmoins les Kurins qui n'avaient aucune expérience dans la guerre, on prit peur et décida d'immigrer vers la planète Volpeire, où vivent des animaux intelligents.
+  </DRNTF_Scenario.description>
+  <DRNTF_Scenario.scenario.name>Pionnière kurin</DRNTF_Scenario.scenario.name>
+  <DRNTF_Scenario.scenario.summary>Un petit groupe de Kurin en expedition dans le but de crée une nouvelle colonie.</DRNTF_Scenario.scenario.summary>
   <DRNTF_Scenario.scenario.description>Translating...</DRNTF_Scenario.scenario.description>
-  <DRNTF_Scenario.scenario.parts.2.text>"Well, I put all my stuff here, good luck."</DRNTF_Scenario.scenario.parts.2.text>
+  <DRNTF_Scenario.scenario.parts.2.text>"Cette endroit semble convenable pour une colonie.. Bonne chance pour la suite !"</DRNTF_Scenario.scenario.parts.2.text>
 
 
 </LanguageData>
