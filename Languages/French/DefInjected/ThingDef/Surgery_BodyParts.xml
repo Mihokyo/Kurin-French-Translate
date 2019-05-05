@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DRNTF_FakeTail.label>Fake Kurin Tail</DRNTF_FakeTail.label>
-  <DRNTF_FakeTail.description>Simple fake tail. Somewhat awkward to look at..</DRNTF_FakeTail.description>
+  <DRNTF_FakeTail.label>Prothèse de queue kurin</DRNTF_FakeTail.label>
+  <DRNTF_FakeTail.description>Une simple fausse queue.. Gênant à regarder</DRNTF_FakeTail.description>
 
-  <DRNTF_BionicEar.label>Bionic Kurin Ear</DRNTF_BionicEar.label>
-  <DRNTF_BionicEar.description>Artificial Kurin ear.</DRNTF_BionicEar.description>
+  <DRNTF_BionicEar.label>Oreille bionic kurin</DRNTF_BionicEar.label>
+  <DRNTF_BionicEar.description>Oreille artificielle bionnete</DRNTF_BionicEar.description>
 
-  <DRNTF_BionicTail.label>Bionic Kurin Tail</DRNTF_BionicTail.label>
-  <DRNTF_BionicTail.description>It is an artificial tail that is indistinguishable from the tail of a real Kurin.</DRNTF_BionicTail.description>
+  <DRNTF_BionicTail.label>Queue bionic kurin</DRNTF_BionicTail.label>
+  <DRNTF_BionicTail.description>Une queue artificielle bionic pour kurin. On ne peut même pas voir la différence avec une vrais.</DRNTF_BionicTail.description>
 
 
 </LanguageData>
