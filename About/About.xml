@@ -1,10 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>Kurin, Traduction française[0.1]</name>
+	<name>Kurin, Traduction française</name>
 	<author>Mihokyo</author>
 	<supportedVersions>
         <li>1.0</li>
 	</supportedVersions>
-	<description>Le jeu original est obligatoirement néccesaire puisque ceci est uniquement l'ajout de la traduction française. Je me suis basé de bad translate pour faire de l'anglais vers du français.</description>
+	<description>
+	[V0.1]Le jeu original est obligatoirement néccesaire puisque ceci est uniquement l'ajout de la traduction française. Je me suis basé de bad translate pour faire de l'anglais vers du français.
+	</description>
 </ModMetaData>
