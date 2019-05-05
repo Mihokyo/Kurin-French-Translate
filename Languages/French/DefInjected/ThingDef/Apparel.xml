@@ -1,16 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- 속옷 -->
 
   <DRNTF_Underwear.label>Sous-vêtement Kurin</DRNTF_Underwear.label>
-  <DRNTF_Underwear.description>Ce sont de simples sous-vêtement.</DRNTF_Underwear.description>
+  <DRNTF_Underwear.description>Un de simples sous-vêtement.</DRNTF_Underwear.description>
+
 
   <!-- 티셔츠 -->
 
   <DRNTF_Tshirt.label>Kurin T-shirt</DRNTF_Tshirt.label>
   <DRNTF_Tshirt.description>C'est un bon t-shirt d'été.</DRNTF_Tshirt.description>
-  
+
+
   <!-- 셔츠 -->
 
   <DRNTF_Shirt.label>Chemise Kurin</DRNTF_Shirt.label>
@@ -43,7 +45,7 @@
 
   <!-- 점프수트 -->
 
-  <DRNTF_Jumpsuit.label>Combinaison Kurin/DRNTF_Jumpsuit.label>
+  <DRNTF_Jumpsuit.label>Combinaison Kurin</DRNTF_Jumpsuit.label>
   <DRNTF_Jumpsuit.description>C'est l'uniforme des ingénieurs kurin.</DRNTF_Jumpsuit.description>
 
 
