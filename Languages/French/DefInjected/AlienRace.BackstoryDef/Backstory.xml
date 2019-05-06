@@ -2,7 +2,9 @@
 <LanguageData>
 
   <!-- 고아 -->
-
+  <!-- [PAWN_nameDef] == prénom qu'aura le perso dans le jeu -------    [PAWN_pronoun] == title qu'aura le perso dans le jeu -->
+  <!-- Exemple: Un kurin nommée Rin avec pour backstory en enfant Kurin orphelin, le texte donnera -->
+  <!-- Les parents de Rin, Kurin orphelin, se sont fait tuer...  -->
   <DRNTF_BackstoryChild_01.title>Kurin orphelin</DRNTF_BackstoryChild_01.title>
   <DRNTF_BackstoryChild_01.titleShort>Orphelin</DRNTF_BackstoryChild_01.titleShort>
   <DRNTF_BackstoryChild_01.baseDescription>Les parents de [PAWN_nameDef], [PAWN_pronoun], se sont fait tuer par un humain lors de son enfance. Ce qui provoque le syndrome de stress post-traumatique.[PAWN_pronoun] à suivit un traitement psychiatrique de nombreuses année, ce qui lui a permit de reprendre une vie ordinaire mais souffre toujours de cauchemars.</DRNTF_BackstoryChild_01.baseDescription>
