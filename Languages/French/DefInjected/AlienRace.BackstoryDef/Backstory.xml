@@ -2,26 +2,26 @@
 <LanguageData>
 
   <!-- 고아 -->
-  <!-- [PAWN_nameDef] == prénom qu'aura le perso dans le jeu -------    [PAWN_pronoun] == title qu'aura le perso dans le jeu -->
-  <!-- Exemple: Un kurin nommée Rin avec pour backstory en enfant Kurin orphelin, le texte donnera -->
-  <!-- Les parents de Rin, Kurin orphelin, se sont fait tuer...  -->
+  <!-- [PAWN_nameDef] == prénom qu'aura le perso dans le jeu -------    [PAWN_pronoun] == pronom de la personne (il/elle) -->
+  <!-- Exemple: Une kurin nommée Rin avec pour backstory en enfant Kurin orphelin, le texte donnera -->
+  <!-- Les parents de Rin se sont fait tuer... syndrome de stress post-traumatique. Elle à suivit un traitement... -->
   <DRNTF_BackstoryChild_01.title>Kurin orphelin</DRNTF_BackstoryChild_01.title>
   <DRNTF_BackstoryChild_01.titleShort>Orphelin</DRNTF_BackstoryChild_01.titleShort>
-  <DRNTF_BackstoryChild_01.baseDescription>Les parents de [PAWN_nameDef], [PAWN_pronoun], se sont fait tuer par un humain lors de son enfance. Ce qui provoque le syndrome de stress post-traumatique.[PAWN_pronoun] à suivit un traitement psychiatrique de nombreuses année, ce qui lui a permit de reprendre une vie ordinaire mais souffre toujours de cauchemars.</DRNTF_BackstoryChild_01.baseDescription>
+  <DRNTF_BackstoryChild_01.baseDescription>Les parents de [PAWN_nameDef] se sont fait tuer par un humain lors de son enfance. Ce qui provoque le syndrome de stress post-traumatique.[PAWN_pronoun] à suivit un traitement psychiatrique de nombreuses année, ce qui lui a permit de reprendre une vie ordinaire mais souffre toujours de cauchemars.</DRNTF_BackstoryChild_01.baseDescription>
 
 
   <!-- 어린 시녀 -->
 
   <DRNTF_BackstoryChild_02.title>Kurin Jeune femme de chambre</DRNTF_BackstoryChild_02.title>
   <DRNTF_BackstoryChild_02.titleShort>Femme de chambre</DRNTF_BackstoryChild_02.titleShort>
-  <DRNTF_BackstoryChild_02.baseDescription>Les parents de [PAWN_nameDef] on perdu toute leurs fortune et on croulé sous les dettes. La [PAWN_pronoun] s'est alors occupée du manoir familial.</DRNTF_BackstoryChild_02.baseDescription>
+  <DRNTF_BackstoryChild_02.baseDescription>Les parents de [PAWN_nameDef] on perdu toute leurs fortune et on croulé sous les dettes. [PAWN_pronoun] s'est alors occupée du manoir familial.</DRNTF_BackstoryChild_02.baseDescription>
 
 
   <!-- 여우무리 일원 -->
 
   <DRNTF_BackstoryChild_03.title>Kurin gardienne des renards</DRNTF_BackstoryChild_03.title>
   <DRNTF_BackstoryChild_03.titleShort>Gardienne des renards</DRNTF_BackstoryChild_03.titleShort>
-  <DRNTF_BackstoryChild_03.baseDescription>L'histoire de Fox Mugi Jagyedan était l'animation télévisée la plus populaire pour les jeunes Kurins. Cela a inspiré [PAWN_nameDef] à devenir une gardienne du village local. Cela n'exigeait cependant pas grand-chose de la part d'une [PAWN_pronoun] .</DRNTF_BackstoryChild_03.baseDescription>
+  <DRNTF_BackstoryChild_03.baseDescription>Fox Mugi Jagyedan était l'animation télévisée la plus populaire pour les jeunes Kurins. Cela a inspiré [PAWN_nameDef] à devenir une gardienne du village local. Cela n'exigeait cependant pas grand-chose de sa part.</DRNTF_BackstoryChild_03.baseDescription>
 
 
   <!-- 따돌려진 아이 -->
@@ -47,30 +47,30 @@
 
   <!-- 공잡이 -->
 
-  <DRNTF_BackstoryChild_07.title>Kurin Ball Catcher</DRNTF_BackstoryChild_07.title>
-  <DRNTF_BackstoryChild_07.titleShort>Catcher</DRNTF_BackstoryChild_07.titleShort>
-  <DRNTF_BackstoryChild_07.baseDescription>[PAWN_nameDef] was a fanboy chasing his favirote team in the nation's sports league. After every game [PAWN_pronoun] he was caught on camera and gradually became the clubs mascot.</DRNTF_BackstoryChild_07.baseDescription>
+  <DRNTF_BackstoryChild_07.title>Kurin Ramasseur de balle</DRNTF_BackstoryChild_07.title>
+  <DRNTF_BackstoryChild_07.titleShort>Ramasseur</DRNTF_BackstoryChild_07.titleShort>
+  <DRNTF_BackstoryChild_07.baseDescription>[PAWN_nameDef] était fan des "Nation sports league", à la recherche de son équipe favorite et parvenant à ne rater aucun match, [PAWN_pronoun] reussissait après chaque partie à se faire remarquer des caméras-man. Petit à petit [PAWN_pronoun] reussit à devenir mascot de son club préféré.</DRNTF_BackstoryChild_07.baseDescription>
 
 
   <!-- 동물원 아르바이터 -->
 
-  <DRNTF_BackstoryChild_08.title>Kurin Zoo Arbiter</DRNTF_BackstoryChild_08.title>
-  <DRNTF_BackstoryChild_08.titleShort>Arbiter</DRNTF_BackstoryChild_08.titleShort>
-  <DRNTF_BackstoryChild_08.baseDescription>[PAWN_nameDef] was an older student. Because of their many sisters, their family was poor and so with helped small jobs at the zoo to earn tuition for themselves. [PAWN_pronoun] took care of relatively easy herbivores.</DRNTF_BackstoryChild_08.baseDescription>
+  <DRNTF_BackstoryChild_08.title>Kurin soigneur du Zoo</DRNTF_BackstoryChild_08.title>
+  <DRNTF_BackstoryChild_08.titleShort>Soigneur Zoo</DRNTF_BackstoryChild_08.titleShort>
+  <DRNTF_BackstoryChild_08.baseDescription>[PAWN_nameDef] était un ancien étudiant. Parcequ'[PAWN_pronoum] avait beaucoup de soeur, sa famille était pauvre ce qui lui a fait prendre l'initiative d'avoir des petits jobs dans un zoo afin de gagner un peu d'argents. [PAWN_pronoun] travaillait surtout avec des herbivores facile à dresser.</DRNTF_BackstoryChild_08.baseDescription>
 
 
   <!-- 게으른 아이 -->
 
-  <DRNTF_BackstoryChild_09.title>Kurin Lazy Child</DRNTF_BackstoryChild_09.title>
-  <DRNTF_BackstoryChild_09.titleShort>Laxy Child</DRNTF_BackstoryChild_09.titleShort>
-  <DRNTF_BackstoryChild_09.baseDescription>Studying bored [PAWN_nameDef], and they where often in trouble.</DRNTF_BackstoryChild_09.baseDescription>
+  <DRNTF_BackstoryChild_09.title>Kurin Enfant paresseux</DRNTF_BackstoryChild_09.title>
+  <DRNTF_BackstoryChild_09.titleShort>Enfant paresseux</DRNTF_BackstoryChild_09.titleShort>
+  <DRNTF_BackstoryChild_09.baseDescription>Ennuyer des cours et encourager par la flemme [PAWN_nameDef], restait enfermé dans sa chambre. Un jour sa soeur à voulu lui faire prendre l'air mais [PAWN_pronoun] n'était plus dans sa chambre. Aucune trace d'[PAWN_pronoun] n'a été trouvé.</DRNTF_BackstoryChild_09.baseDescription>
 
 
   <!-- 평범한 아이 -->
 
-  <DRNTF_BackstoryChild_10.title>Kurin Ordinary Child</DRNTF_BackstoryChild_10.title>
-  <DRNTF_BackstoryChild_10.titleShort>Ordinary Child</DRNTF_BackstoryChild_10.titleShort>
-  <DRNTF_BackstoryChild_10.baseDescription>Born in an ordinary middle-class family. [PAWN_nameDef] grew up with the warm love of their parents.</DRNTF_BackstoryChild_10.baseDescription>
+  <DRNTF_BackstoryChild_10.title>Kurin Enfant ordinaire</DRNTF_BackstoryChild_10.title>
+  <DRNTF_BackstoryChild_10.titleShort>Enfant ordinaire</DRNTF_BackstoryChild_10.titleShort>
+  <DRNTF_BackstoryChild_10.baseDescription>Née dans une famille de classe moyenne. [PAWN_nameDef] a grandit dans l'amour de ses parents. Comme tout les autres enfants, [PAWN_pronoun] aimait s'amuser et manger des macarons. Le teste était bon et je n'avais pas vu ce détail, c'est un bon enfant mais [PAWN_pronoun] ne pense pas aux autres Kurin.</DRNTF_BackstoryChild_10.baseDescription>
 
 
   <!-- 프로게이머 -->
