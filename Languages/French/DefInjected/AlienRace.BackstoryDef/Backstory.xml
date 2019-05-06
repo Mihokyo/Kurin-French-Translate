@@ -6,6 +6,13 @@
   <!-- Exemple: Une kurin nommée Rin avec pour backstory en enfant Kurin orphelin, le texte donnera -->
   <!-- Les parents de Rin se sont fait tuer... syndrome de stress post-traumatique. Elle à suivit un traitement... -->
   <!-- {PAWN_gender ? un : une}  permet de faire la difference entre gars et fille, à gauche du : le masculin et droite feminin -->
+  <!-- PAWN_nameFull -->
+  <!-- PAWN_possessive sa/ses -->
+  <!-- PAWN_factionName ColonieKurin -->
+  <!-- PAWN_kind colon femelle kurin -->
+  <!-- PAWN_title nom du job -->
+  <!-- PAWN_alienrace Kurin -->
+  
   <DRNTF_BackstoryChild_01.title>Kurin orphelin</DRNTF_BackstoryChild_01.title>
   <DRNTF_BackstoryChild_01.titleShort>Orphelin</DRNTF_BackstoryChild_01.titleShort>
   <DRNTF_BackstoryChild_01.baseDescription>Les parents de [PAWN_nameDef] se sont fait tuer par un humain lors de son enfance. Ce qui provoque le syndrome de stress post-traumatique.[PAWN_pronoun] à suivit un traitement psychiatrique de nombreuses année, ce qui lui a permit de reprendre une vie ordinaire mais souffre toujours de cauchemars.</DRNTF_BackstoryChild_01.baseDescription>
@@ -57,7 +64,7 @@
 
   <DRNTF_BackstoryChild_08.title>Kurin zoologiste</DRNTF_BackstoryChild_08.title>
   <DRNTF_BackstoryChild_08.titleShort>Zoologiste</DRNTF_BackstoryChild_08.titleShort>
-  <DRNTF_BackstoryChild_08.baseDescription>[PAWN_nameDef] était {PAWN_gender ? un : une} ancie{PAWN_gender ? n : nne} étudiant{PAWN_gender ? t : te}. Parcequ'[PAWN_pronoum] avait beaucoup de soeur, sa famille était pauvre ce qui lui a fait prendre l'initiative d'avoir des petits jobs dans un zoo afin de gagner un peu d'argents. [PAWN_pronoun] travaillait surtout avec des herbivores facile à dresser.</DRNTF_BackstoryChild_08.baseDescription>
+  <DRNTF_BackstoryChild_08.baseDescription>[PAWN_nameDef] était {PAWN_gender ? un : une} ancie{PAWN_gender ? n : nne} étudiant{PAWN_gender ? t : te}. Parcequ'[PAWN_pronoun] avait beaucoup de soeur, sa famille était pauvre ce qui lui a fait prendre l'initiative d'avoir des petits jobs dans un zoo afin de gagner un peu d'argents. [PAWN_pronoun] travaillait surtout avec des herbivores facile à dresser.</DRNTF_BackstoryChild_08.baseDescription>
 
 
   <!-- 게으른 아이 -->
