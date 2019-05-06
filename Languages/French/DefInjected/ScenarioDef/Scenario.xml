@@ -3,12 +3,26 @@
 
   <DRNTF_Scenario.label>Pionnière kurin</DRNTF_Scenario.label>
   <DRNTF_Scenario.description>
-    Les Kurins sont une espèce née d'une transformation biologique fait par un scientifiste. Concus à l'origine à des fins de recherche, certain scientifique se sont opposé à cette experience en piratant des méchanoides et les envoyants détruire le laboratoire. Mettre les kurins en capsules d'hypersommeil et les envoyers sur des planettes lointaines ..\n\n
-    Sur la nouvelle planète, les Kurins sont protégés par une intelligence artificielle et leurs a permit de se développer durant des siécles. Par la suite ils ont été en mesure d'interagir avec d'autres forces humaines pour être reconnu comme faction. Les humains, en voyant le travail de haute qualité des Kurins de part leurs capacité innée on finit par attiré les grandes puissances humaines qui ont tenté de faire la guerre au kurin pour les capturers. Neanmoins les Kurins qui n'avaient aucune expérience dans la guerre, on prit peur et décida d'immigrer vers la planète Volpeire, où vivent des animaux intelligents.
+\tLes Kurins sont une espèce née d'une transformation biologique fait par un scientifique. Conçus à l'origine à des fins de recherche, certains scientifiques se sont opposés à cette expérience en piratant des méchanoïdes et les envoyant détruire le laboratoire. Le scientifique voulant sauver sa création décida de mettre les Kurins en capsules d'hypersommeil et les envoyer sur des planètes lointaines.\n
+\tSur la nouvelle planète, les Kurins sont protégés par une intelligence artificielle, ce qui leur a permis de se développer durant des siècles. Par la suite ils ont été en mesure d'interagir avec d'autres forces humaines pour être reconnus comme faction. Les humains en voyant le travail de haute qualité des Kurins de part leurs capacités innées ont fini par recruter de grandes puissances humaines afin de capturer les Kurins et exploiter et déclarèrent la guerre à ce peuple prospère. Cependant les Kurins n'avaient aucune expérience dans la guerre. De peur, ils préférèrent déménager vers des terres plus tranquille et se posèrent sur la planète Volpeire où ils y retrouvent toute sorte d'espèce d'animaux de même intelligence.\n
+Leur but étant de rejoindre Volpeire, pas question d'oublier un seul Kurin sur cette planète souillée par la convoitise du pouvoir.\n\n
+    
+Journal de Young-Jae Lee, dirigeant de l'expédition Volpeire.\n
+« Un Kurin qui nous a rejoint était poursuivit par les pirates. Mais je n'avais aucune envie de le laisser mourir ici. J'ai dû accélérer la cadence et j'ai dû faire la croix sur certains biens pour ne pas tout perdre. » …\n
+« Le temps s'est écoulé en un rien de temps, on a pu décoller de justesse, évitant l'attaque. » …\n
+« Les pirates nous ont suivis jusque dans l'espace mais nous ne sommes pas prêts à nous rendre. On va tenter de les semer. Leur vaisseau n'a pas l'air très résistant. Avec un peu de chance l'armature va fondre s'ils se rapprochent trop de l'étoile à bâbord et cela les dissuaderait de nous suivre. Il nous faut juste du temps, seulement un peu. » …\n
+« On a finalement réussi à s'échapper, cependant le vaisseau est en piteux état et nous avons besoin de nous ressourcer. Les provisions restantes ne suffiront pas. » …\n
+« Le vaisseau par en morceau, il ne nous permet plus d'être à l'abri. Il est temps de s'arrêter sur la planète que l'on voit au loin, sinon plusieurs centaines de Kurins à bord du vaisseau vont mourir pour de bon. »\n\n
+
+	\t\tIls réussissent à atterrir en capsule sur la planète inconnue et comptent retrouver leurs forces. Leur but étant de se rendre à Volpeire avec le plus de Kurins et en bonne santé. Ils n'ont plus peur, guidés par leur instinct, ils ont espoir de retrouver un jour un foyer chaleureux.\n\n\n
+
+
+	\t\tCependant, des rumeurs selon lesquelles ils ont atterri sur la planète reculée sont parvenues aux oreilles des pirates et bientôt, ils seront à nouveau pourchassés. Pour éviter un maximum de pertes, les Kurins ont dû se disperser sur toute la planète pour minimiser les dommages. Trois Kurins ont décidé de construire une forteresse sûre pour échapper aux pirates et se préparer pour une nouvelle expédition. L'aigre souvenir de la défaite les pousseront à se battre pour retrouver leur prospérité et leur pouvoir. Mais pour le moment, ils sont perdus et vous êtes leur seul espoir.\n\n
+  @author Azu
   </DRNTF_Scenario.description>
   <DRNTF_Scenario.scenario.name>Pionnière kurin</DRNTF_Scenario.scenario.name>
   <DRNTF_Scenario.scenario.summary>Un petit groupe de Kurin en expedition dans le but de crée une nouvelle colonie.</DRNTF_Scenario.scenario.summary>
-  <DRNTF_Scenario.scenario.description>Translating...</DRNTF_Scenario.scenario.description>
+  <DRNTF_Scenario.scenario.description>Scenario.scenario.description</DRNTF_Scenario.scenario.description>
   <DRNTF_Scenario.scenario.parts.2.text>"Cette endroit semble convenable pour une colonie.. Bonne chance pour la suite !"</DRNTF_Scenario.scenario.parts.2.text>
 
 
