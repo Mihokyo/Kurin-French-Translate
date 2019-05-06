@@ -3,82 +3,82 @@
 
   <!-- 플레이어펙션 -->
 
-  <DRNTF_Colonist.label>kurin colonist</DRNTF_Colonist.label>
-  <DRNTF_Colonist.labelPlural>kurin colonists</DRNTF_Colonist.labelPlural>
-  <DRNTF_Colonist.labelMale>male kurin colonist</DRNTF_Colonist.labelMale>
-  <DRNTF_Colonist.labelMalePlural>male kurin colonists</DRNTF_Colonist.labelMalePlural>
-  <DRNTF_Colonist.labelFemale>female kurin colonist</DRNTF_Colonist.labelFemale>
-  <DRNTF_Colonist.labelFemalePlural>female kurin colonists</DRNTF_Colonist.labelFemalePlural>
+  <DRNTF_Colonist.label>colon kurin</DRNTF_Colonist.label>
+  <DRNTF_Colonist.labelPlural>colons kurin</DRNTF_Colonist.labelPlural>
+  <DRNTF_Colonist.labelMale>colon mâle kurin</DRNTF_Colonist.labelMale>
+  <DRNTF_Colonist.labelMalePlural>colons mâles kurin</DRNTF_Colonist.labelMalePlural>
+  <DRNTF_Colonist.labelFemale>colon femelle kurin</DRNTF_Colonist.labelFemale>
+  <DRNTF_Colonist.labelFemalePlural>colons femelles kurin</DRNTF_Colonist.labelFemalePlural>
 
 
   <!-- 시민 -->
 
-  <DRNTF_Citizen.label>kurin citizen</DRNTF_Citizen.label>
-  <DRNTF_Citizen.labelPlural>kurin citizens</DRNTF_Citizen.labelPlural>
-  <DRNTF_Citizen.labelMale>male kurin citizen</DRNTF_Citizen.labelMale>
-  <DRNTF_Citizen.labelMalePlural>male kurin citizens</DRNTF_Citizen.labelMalePlural>
-  <DRNTF_Citizen.labelFemale>female kurin citizen</DRNTF_Citizen.labelFemale>
-  <DRNTF_Citizen.labelFemalePlural>female kurin citizens</DRNTF_Citizen.labelFemalePlural>
+  <DRNTF_Citizen.label>citoyen kurin</DRNTF_Citizen.label>
+  <DRNTF_Citizen.labelPlural>citoyens kurin</DRNTF_Citizen.labelPlural>
+  <DRNTF_Citizen.labelMale>citoyen mâle kurin</DRNTF_Citizen.labelMale>
+  <DRNTF_Citizen.labelMalePlural>citoyens mâles kurin</DRNTF_Citizen.labelMalePlural>
+  <DRNTF_Citizen.labelFemale>citoyenne femelle kurin</DRNTF_Citizen.labelFemale>
+  <DRNTF_Citizen.labelFemalePlural>citoyennes femelles kurin</DRNTF_Citizen.labelFemalePlural>
 
 
   <!-- 자경단 -->
 
-  <DRNTF_Vigilante.label>kurin vigilante</DRNTF_Vigilante.label>
-  <DRNTF_Vigilante.labelPlural>kurin vigilantes</DRNTF_Vigilante.labelPlural>
-  <DRNTF_Vigilante.labelMale>male kurin vigilante</DRNTF_Vigilante.labelMale>
-  <DRNTF_Vigilante.labelMalePlural>male kurin vigilantes</DRNTF_Vigilante.labelMalePlural>
-  <DRNTF_Vigilante.labelFemale>female kurin vigilante</DRNTF_Vigilante.labelFemale>
-  <DRNTF_Vigilante.labelFemalePlural>female kurin vigilantes</DRNTF_Vigilante.labelFemalePlural>
+  <DRNTF_Vigilante.label>justicier kurin</DRNTF_Vigilante.label>
+  <DRNTF_Vigilante.labelPlural>justiciers kurin</DRNTF_Vigilante.labelPlural>
+  <DRNTF_Vigilante.labelMale>justicier mâle kurin</DRNTF_Vigilante.labelMale>
+  <DRNTF_Vigilante.labelMalePlural>justiciers mâle kurin</DRNTF_Vigilante.labelMalePlural>
+  <DRNTF_Vigilante.labelFemale>justicière femelle kurin</DRNTF_Vigilante.labelFemale>
+  <DRNTF_Vigilante.labelFemalePlural>justicières femelles kurin</DRNTF_Vigilante.labelFemalePlural>
 
 
   <!-- 상인 -->
 
-  <DRNTF_Trader.label>kurin trader</DRNTF_Trader.label>
-  <DRNTF_Trader.labelPlural>kurin traders</DRNTF_Trader.labelPlural>
-  <DRNTF_Trader.labelMale>male kurin trader</DRNTF_Trader.labelMale>
-  <DRNTF_Trader.labelMalePlural>male kurin traders</DRNTF_Trader.labelMalePlural>
-  <DRNTF_Trader.labelFemale>female kurin trader</DRNTF_Trader.labelFemale>
-  <DRNTF_Trader.labelFemalePlural>female kurin traders</DRNTF_Trader.labelFemalePlural>
+  <DRNTF_Trader.label>marchand kurin</DRNTF_Trader.label>
+  <DRNTF_Trader.labelPlural>marchands kurin</DRNTF_Trader.labelPlural>
+  <DRNTF_Trader.labelMale>marchand mâle kurin</DRNTF_Trader.labelMale>
+  <DRNTF_Trader.labelMalePlural>marchands mâles kurin</DRNTF_Trader.labelMalePlural>
+  <DRNTF_Trader.labelFemale>marchande femelle kurin</DRNTF_Trader.labelFemale>
+  <DRNTF_Trader.labelFemalePlural>marchandes femelles kurin</DRNTF_Trader.labelFemalePlural>
 
 
   <!-- 엘리트 -->
 
-  <DRNTF_Elite.label>kurin elite</DRNTF_Elite.label>
-  <DRNTF_Elite.labelPlural>kurin elites</DRNTF_Elite.labelPlural>
-  <DRNTF_Elite.labelMale>male kurin elite</DRNTF_Elite.labelMale>
-  <DRNTF_Elite.labelMalePlural>male kurin elites</DRNTF_Elite.labelMalePlural>
-  <DRNTF_Elite.labelFemale>female kurin elite</DRNTF_Elite.labelFemale>
-  <DRNTF_Elite.labelFemalePlural>female kurin elites</DRNTF_Elite.labelFemalePlural>
+  <DRNTF_Elite.label>élite kurin</DRNTF_Elite.label>
+  <DRNTF_Elite.labelPlural>élites kurin</DRNTF_Elite.labelPlural>
+  <DRNTF_Elite.labelMale>élite mâle kurin</DRNTF_Elite.labelMale>
+  <DRNTF_Elite.labelMalePlural>élites mâles kurin</DRNTF_Elite.labelMalePlural>
+  <DRNTF_Elite.labelFemale>élite femelle kurin</DRNTF_Elite.labelFemale>
+  <DRNTF_Elite.labelFemalePlural>élites femelles kurin</DRNTF_Elite.labelFemalePlural>
 
 
   <!-- 군인(분대원) -->
 
-  <DRNTF_Soldier.label>kurin army soldier</DRNTF_Soldier.label>
-  <DRNTF_Soldier.labelPlural>kurin army soldiers</DRNTF_Soldier.labelPlural>
-  <DRNTF_Soldier.labelMale>male kurin army soldier</DRNTF_Soldier.labelMale>
-  <DRNTF_Soldier.labelMalePlural>male kurin army soldiers</DRNTF_Soldier.labelMalePlural>
-  <DRNTF_Soldier.labelFemale>female kurin army soldier</DRNTF_Soldier.labelFemale>
-  <DRNTF_Soldier.labelFemalePlural>female kurin army soldiers</DRNTF_Soldier.labelFemalePlural>
+  <DRNTF_Soldier.label>soldat de l'armée kurin</DRNTF_Soldier.label>
+  <DRNTF_Soldier.labelPlural>soldats de l'armée kurin</DRNTF_Soldier.labelPlural>
+  <DRNTF_Soldier.labelMale>soldat mâle de l'armée kurin</DRNTF_Soldier.labelMale>
+  <DRNTF_Soldier.labelMalePlural>soldats mâles de l'armée kurin</DRNTF_Soldier.labelMalePlural>
+  <DRNTF_Soldier.labelFemale>soldate femelle de l'armée kurin</DRNTF_Soldier.labelFemale>
+  <DRNTF_Soldier.labelFemalePlural>soldates femelles de l'armée kurin</DRNTF_Soldier.labelFemalePlural>
 
 
   <!-- 군인(분대장) -->
 
-  <DRNTF_EliteSoldier.label>kurin army sergeant</DRNTF_EliteSoldier.label>
-  <DRNTF_EliteSoldier.labelPlural>kurin army sergeants</DRNTF_EliteSoldier.labelPlural>
-  <DRNTF_EliteSoldier.labelMale>male kurin army sergeant</DRNTF_EliteSoldier.labelMale>
-  <DRNTF_EliteSoldier.labelMalePlural>male kurin army sergeants</DRNTF_EliteSoldier.labelMalePlural>
-  <DRNTF_EliteSoldier.labelFemale>female kurin army sergeant</DRNTF_EliteSoldier.labelFemale>
-  <DRNTF_EliteSoldier.labelFemalePlural>female kurin army sergeants</DRNTF_EliteSoldier.labelFemalePlural>
+  <DRNTF_EliteSoldier.label>sergent de l'armée kurin</DRNTF_EliteSoldier.label>
+  <DRNTF_EliteSoldier.labelPlural>sergents de l'armée kurin</DRNTF_EliteSoldier.labelPlural>
+  <DRNTF_EliteSoldier.labelMale>sergent mâle de l'armée kurin</DRNTF_EliteSoldier.labelMale>
+  <DRNTF_EliteSoldier.labelMalePlural>sergents mâles de l'armée kurin</DRNTF_EliteSoldier.labelMalePlural>
+  <DRNTF_EliteSoldier.labelFemale>sergente femelle de l'armée kurin</DRNTF_EliteSoldier.labelFemale>
+  <DRNTF_EliteSoldier.labelFemalePlural>sergentes femelles de l'armée kurin</DRNTF_EliteSoldier.labelFemalePlural>
 
 
   <!-- 군인(저격수) -->
 
-  <DRNTF_Sniper.label>kurin army sniper</DRNTF_Sniper.label>
-  <DRNTF_Sniper.labelPlural>kurin army snipers</DRNTF_Sniper.labelPlural>
-  <DRNTF_Sniper.labelMale>male kurin army sniper</DRNTF_Sniper.labelMale>
-  <DRNTF_Sniper.labelMalePlural>male kurin army snipers</DRNTF_Sniper.labelMalePlural>
-  <DRNTF_Sniper.labelFemale>female kurin army sniper</DRNTF_Sniper.labelFemale>
-  <DRNTF_Sniper.labelFemalePlural>female kurin army snipers</DRNTF_Sniper.labelFemalePlural>
+  <DRNTF_Sniper.label>sniper de l'armée kurin</DRNTF_Sniper.label>
+  <DRNTF_Sniper.labelPlural>snipers de l'armée kurin</DRNTF_Sniper.labelPlural>
+  <DRNTF_Sniper.labelMale>sniper mâle de l'armée kurin</DRNTF_Sniper.labelMale>
+  <DRNTF_Sniper.labelMalePlural>snipers mâles de l'armée kurin</DRNTF_Sniper.labelMalePlural>
+  <DRNTF_Sniper.labelFemale>sniper femelle de l'armée kurin</DRNTF_Sniper.labelFemale>
+  <DRNTF_Sniper.labelFemalePlural>snipers femelles de l'armée kurin</DRNTF_Sniper.labelFemalePlural>
 
 
 </LanguageData>
