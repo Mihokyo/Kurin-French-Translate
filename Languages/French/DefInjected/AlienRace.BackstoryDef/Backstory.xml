@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- 고아 -->
-  <!-- [PAWN_nameDef] == prénom qu'aura le perso dans le jeu -------    [PAWN_pronoun] == pronom de la personne (il/elle) -->
+  <!-- [PAWN_nameDef] == prénom qu'aura le perso dans le jeu  [PAWN_pronoun] == pronom de la personne (il/elle) -->
   <!-- Exemple: Une kurin nommée Rin avec pour backstory en enfant Kurin orphelin, le texte donnera -->
   <!-- Les parents de Rin se sont fait tuer... syndrome de stress post-traumatique. Elle à suivit un traitement... -->
   <DRNTF_BackstoryChild_01.title>Kurin orphelin</DRNTF_BackstoryChild_01.title>
@@ -54,16 +54,16 @@
 
   <!-- 동물원 아르바이터 -->
 
-  <DRNTF_BackstoryChild_08.title>Kurin soigneur du Zoo</DRNTF_BackstoryChild_08.title>
-  <DRNTF_BackstoryChild_08.titleShort>Soigneur Zoo</DRNTF_BackstoryChild_08.titleShort>
-  <DRNTF_BackstoryChild_08.baseDescription>[PAWN_nameDef] était un ancien étudiant. Parcequ'[PAWN_pronoum] avait beaucoup de soeur, sa famille était pauvre ce qui lui a fait prendre l'initiative d'avoir des petits jobs dans un zoo afin de gagner un peu d'argents. [PAWN_pronoun] travaillait surtout avec des herbivores facile à dresser.</DRNTF_BackstoryChild_08.baseDescription>
+  <DRNTF_BackstoryChild_08.title>Kurin zoologiste</DRNTF_BackstoryChild_08.title>
+  <DRNTF_BackstoryChild_08.titleShort>Zoologiste</DRNTF_BackstoryChild_08.titleShort>
+  <DRNTF_BackstoryChild_08.baseDescription>[PAWN_nameDef] était {PAWN_gender ? un : une} ancie{PAWN_gender ? n : nne} étudiant{PAWN_gender ? t : te}. Parcequ'[PAWN_pronoum] avait beaucoup de soeur, sa famille était pauvre ce qui lui a fait prendre l'initiative d'avoir des petits jobs dans un zoo afin de gagner un peu d'argents. [PAWN_pronoun] travaillait surtout avec des herbivores facile à dresser.</DRNTF_BackstoryChild_08.baseDescription>
 
 
   <!-- 게으른 아이 -->
 
   <DRNTF_BackstoryChild_09.title>Kurin Enfant paresseux</DRNTF_BackstoryChild_09.title>
   <DRNTF_BackstoryChild_09.titleShort>Enfant paresseux</DRNTF_BackstoryChild_09.titleShort>
-  <DRNTF_BackstoryChild_09.baseDescription>Ennuyer des cours et encourager par la flemme [PAWN_nameDef], restait enfermé dans sa chambre. Un jour sa soeur à voulu lui faire prendre l'air mais [PAWN_pronoun] n'était plus dans sa chambre. Aucune trace d'[PAWN_pronoun] n'a été trouvé.</DRNTF_BackstoryChild_09.baseDescription>
+  <DRNTF_BackstoryChild_09.baseDescription>Ennuyer des cours et encouragé par la flemme [PAWN_nameDef], restait enferm{PAWN_gender ? ée : e} dans sa chambre. Un jour sa soeur à voulu lui faire prendre l'air mais [PAWN_pronoun] n'était plus dans sa chambre. Aucune trace d'[PAWN_pronoun] n'a été trouvé.</DRNTF_BackstoryChild_09.baseDescription>
 
 
   <!-- 평범한 아이 -->
