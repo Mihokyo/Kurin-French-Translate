@@ -11,6 +11,7 @@
   <!-- PAWN_factionName ColonieKurin -->
   <!-- PAWN_kind colon femelle kurin -->
   <!-- PAWN_title nom du job -->
+  <!-- PAWN_objective -->
   <!-- PAWN_alienrace Kurin -->
   
   <DRNTF_BackstoryChild_01.title>Kurin orphelin</DRNTF_BackstoryChild_01.title>
@@ -85,49 +86,50 @@
 
   <DRNTF_BackstoryChild_11.title>Kurin Pro Gamer</DRNTF_BackstoryChild_11.title>
   <DRNTF_BackstoryChild_11.titleShort>Pro Gamer</DRNTF_BackstoryChild_11.titleShort>
-  <DRNTF_BackstoryChild_11.baseDescription>[PAWN_nameDef] was a Pro Gamer and ranked in the top ten. [PAWN_pronoun] entered various competitions and won, but when the Internet was cut off, they became a lazy fox who did not want to do anything.</DRNTF_BackstoryChild_11.baseDescription>
+  <DRNTF_BackstoryChild_11.baseDescription>[PAWN_nameDef] était {PAWN_gender ? un : une} joueu{PAWN_gender ? r : se} professionnel classé parmis les 10 meilleurs. [PAWN_pronoun] gagnait chaque competition auquel [PAWN_pronoun] participait, mais lorsque qu'internet à été coupé du monde, [PAWN_pronoun] est devenu {PAWN_gender ? un : une} Kurin paresseux et ne souhaite plus rien faire.</DRNTF_BackstoryChild_11.baseDescription>
 
 
   <!-- 시골 아이 -->
+  <!-- [PAWN_nameDef] they picked mushrooms in the mountains, chased cats in the fields, climed stones in the valleys, caught lobsters and fishes, roasted them, and spent their childhood with nature. Their skin was soaked in the sun, any they grew up healthy. -->
 
-  <DRNTF_BackstoryChild_12.title>Kurin Rural Child</DRNTF_BackstoryChild_12.title>
-  <DRNTF_BackstoryChild_12.titleShort>Rural Child</DRNTF_BackstoryChild_12.titleShort>
-  <DRNTF_BackstoryChild_12.baseDescription>[PAWN_nameDef] they picked mushrooms in the mountains, chased cats in the fields, climed stones in the valleys, caught lobsters and fishes, roasted them, and spent their childhood with nature. Their skin was soaked in the sun, any they grew up healthy.</DRNTF_BackstoryChild_12.baseDescription>
+  <DRNTF_BackstoryChild_12.title>Kurin enfant de la campagne</DRNTF_BackstoryChild_12.title>
+  <DRNTF_BackstoryChild_12.titleShort>Enfant de campagne</DRNTF_BackstoryChild_12.titleShort>
+  <DRNTF_BackstoryChild_12.baseDescription>[PAWN_nameDef] est ses amis passaient leurs temps à ramasser des champignons dans la montagne, chasser des chats dans les champs, escalader les rochers dans la vallées, attraper des poissons et des homards pour les faires cuires.. Ils ont passé leurs enfance dans la nature au point d'avoir la lumière du soleil imprimée sur leurs fourures. Ils ont grandit en pleine santé.</DRNTF_BackstoryChild_12.baseDescription>
 
 
   <!-- 도시꼬마 -->
 
-  <DRNTF_BackstoryChild_13.title>Killin City Kid</DRNTF_BackstoryChild_13.title>
-  <DRNTF_BackstoryChild_13.titleShort>City Kid</DRNTF_BackstoryChild_13.titleShort>
-  <DRNTF_BackstoryChild_13.baseDescription>[PAWN_nameDef] grew up in a city with excellent infrastructure, spacious parks and forests. [PAWN_pronoun] was located in the bustling city of Kuren, and was able to enjoy hobbies, cultural life, VR games and much more. nevertheless [PAWN_pronoun] favorite thing is to travel with there family.</DRNTF_BackstoryChild_13.baseDescription>
+  <DRNTF_BackstoryChild_13.title>Kurin enfant de la ville Killin</DRNTF_BackstoryChild_13.title>
+  <DRNTF_BackstoryChild_13.titleShort>Enfant de ville</DRNTF_BackstoryChild_13.titleShort>
+  <DRNTF_BackstoryChild_13.baseDescription>[PAWN_nameDef] a grandi dans une ville dotée d'excellentes infrastructures, de vastes parcs et de forêts. [PAWN_pronoun] habitait dans une ville animée de Kuren, et a été en mesure de profiter de passe-temps diversifier, de nombreux lieux culturelle, jeux VR et bien plus encore.</DRNTF_BackstoryChild_13.baseDescription>
 
 
   <!-- 어린 만화가 -->
 
-  <DRNTF_BackstoryChild_14.title>Kurin Artist</DRNTF_BackstoryChild_14.title>
-  <DRNTF_BackstoryChild_14.titleShort>Artist</DRNTF_BackstoryChild_14.titleShort>
-  <DRNTF_BackstoryChild_14.baseDescription>[PAWN_nameDef] was talent and liked to paint.</DRNTF_BackstoryChild_14.baseDescription>
+  <DRNTF_BackstoryChild_14.title>Kurin artiste</DRNTF_BackstoryChild_14.title>
+  <DRNTF_BackstoryChild_14.titleShort>Artiste</DRNTF_BackstoryChild_14.titleShort>
+  <DRNTF_BackstoryChild_14.baseDescription>[PAWN_nameDef] était {PAWN_gender ? un : une} gran{PAWN_gender ? d : de} peintre. {PAWN_pronoun} aimait peindre toute sorte de chose.. Des forêts, montagnes, villes. {PAWN_pronoun} a su se faire un nom dans le milieu artistique.</DRNTF_BackstoryChild_14.baseDescription>
 
 
   <!-- 한꼬리 증후군 -->
-
-  <DRNTF_BackstoryChild_15.title>Kurin's Tail Syndrome</DRNTF_BackstoryChild_15.title>
-  <DRNTF_BackstoryChild_15.titleShort>One-tail syndrome</DRNTF_BackstoryChild_15.titleShort>
-  <DRNTF_BackstoryChild_15.baseDescription>Unlike others, [PAWN_nameDef] was born with only one tail, this caused their growth slowed. Because of this [PAWN_pronoun] seemed a lot younger than their peers and was often teassed, but others found [PAWN_pronoun] cute.</DRNTF_BackstoryChild_15.baseDescription>
+  <!-- Unlike others, [PAWN_nameDef] was born with only one tail, this caused their growth slowed. Because of this [PAWN_pronoun] seemed a lot younger than their peers and was often teassed, but others found [PAWN_pronoun] cute -->
+  <DRNTF_BackstoryChild_15.title>Kurin syndrome de la mono-queue</DRNTF_BackstoryChild_15.title>
+  <DRNTF_BackstoryChild_15.titleShort>Mono-queue syndrome</DRNTF_BackstoryChild_15.titleShort>
+  <DRNTF_BackstoryChild_15.baseDescription>[PAWN_nameDef] n'a pas grandit comme les autres Kurin. En effet [PAWN_pronoun] est née avec seulement une queue contrairement aux autres Kurins, ce qui a étrangement fortement réduit sa croissance. A cause de ça, [PAWN_pronoun] parassait beaucoup plus jeune que les autres de son âge et {PAWN_gender ? le : la} taquiner la dessus, pourtant ils {PAWN_gender ? le : la} trouvaient migno{PAWN_gender ? n : nne}.</DRNTF_BackstoryChild_15.baseDescription>
 
 
   <!-- 겁많은 아이 -->
 
-  <DRNTF_BackstoryChild_16.title>Kurin Scared Child</DRNTF_BackstoryChild_16.title>
-  <DRNTF_BackstoryChild_16.titleShort>Scared Child</DRNTF_BackstoryChild_16.titleShort>
-  <DRNTF_BackstoryChild_16.baseDescription>[PAWN_nameDef] was a very frightened child. Everywhere was filled with scary things. The shadows of the night, the small sounds that sound when you sleep. What they hated most was bugs, and would run away when ever they saw one.</DRNTF_BackstoryChild_16.baseDescription>
+  <DRNTF_BackstoryChild_16.title>Kurin enfant effrayé</DRNTF_BackstoryChild_16.title>
+  <DRNTF_BackstoryChild_16.titleShort>Enfant effrayé</DRNTF_BackstoryChild_16.titleShort>
+  <DRNTF_BackstoryChild_16.baseDescription>[PAWN_nameDef] était tout le temps terrifié. Pour {PAWN_gender ? lui : elle} tout était effrayant. La nuit et son obscurité, les petits son durant la nuit. Mais ce qu'{PAWN_pronoun} détestait par dessus tout c'était les caffards ! Il suffisait qu'{PAWN_pronoun} en voit un pour devenir incontrolable et courir partout !</DRNTF_BackstoryChild_16.baseDescription>
 
 
   <!-- 다정한 아이 -->
 
-  <DRNTF_BackstoryChild_17.title>Kurin Affectionate Child</DRNTF_BackstoryChild_17.title>
-  <DRNTF_BackstoryChild_17.titleShort>Affectionate Child</DRNTF_BackstoryChild_17.titleShort>
-  <DRNTF_BackstoryChild_17.baseDescription>[PAWN_nameDef]was a loving child. [PAWN_pronoun] always listened to their friends stories and help those who had a hard time.</DRNTF_BackstoryChild_17.baseDescription>
+  <DRNTF_BackstoryChild_17.title>Kurin Enfant Affectueux</DRNTF_BackstoryChild_17.title>
+  <DRNTF_BackstoryChild_17.titleShort>Enfant Affectueux</DRNTF_BackstoryChild_17.titleShort>
+  <DRNTF_BackstoryChild_17.baseDescription>[PAWN_nameDef] était un enfant d'amour. [PAWN_pronoun] était toujours à l'écoute des problèmes de ses amis et voulait toujours les aider dans leurs période difficile.</DRNTF_BackstoryChild_17.baseDescription>
 
 
   <!-- 가난한 아이 -->
@@ -650,9 +652,9 @@
 
   <!-- 의무관 -->
 
-  <DRNTF_BackstoryAdult_56.title>Kurin Medical Officer</DRNTF_BackstoryAdult_56.title>
-  <DRNTF_BackstoryAdult_56.titleShort>Medical Officer</DRNTF_BackstoryAdult_56.titleShort>
-  <DRNTF_BackstoryAdult_56.baseDescription>[PAWN_nameDef] became a medical officer to help injured soldiers on the battlefield. Although they realized that they sometimes had to kill an enemy to save their allies.</DRNTF_BackstoryAdult_56.baseDescription>
+  <!--[Duplicated] <DRNTF_BackstoryAdult_56.title>Kurin Medical Officer</DRNTF_BackstoryAdult_56.title>-->
+  <!--[Duplicated] <DRNTF_BackstoryAdult_56.titleShort>Medical Officer</DRNTF_BackstoryAdult_56.titleShort>-->
+  <!--[Duplicated] <DRNTF_BackstoryAdult_56.baseDescription>[PAWN_nameDef] became a medical officer to help injured soldiers on the battlefield. Although they realized that they sometimes had to kill an enemy to save their allies.</DRNTF_BackstoryAdult_56.baseDescription>-->
 
 
   <!-- 분대장 -->
